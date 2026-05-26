@@ -1,4 +1,4 @@
-#Nagymennyiségű adatfeldolgozás - Big Data tárgyra készült beadandó projekt.
+# Nagymennyiségű adatfeldolgozás - Big Data tárgyra készült beadandó projekt.
 ------------
 A Videojátékos Szokások és Életmód Adathalmaz Elemzése
 
